@@ -1,0 +1,18 @@
+.body1{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    background-color: crimson;
+    height: 200px;
+    width: 400px;
+    border-top-right-radius:1000px ;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius:100px ;
+
+}
+.body2{
+    position:fixed; 
+    background-color: aqua
+    height:100px;
+    width: 100px;
+}
